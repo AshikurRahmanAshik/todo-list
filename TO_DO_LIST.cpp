@@ -64,6 +64,7 @@ void Delete(int x)
          data[i-1].Date=data[i].Date;
       }
    }
+
    listSize-=1;
 
 }
